@@ -20,7 +20,7 @@ request.onload = function(){
 }
 
 button.onclick=function(){
- console.log("work plx");
+ location.reload();
 }
 
     request.send();
