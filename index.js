@@ -19,7 +19,9 @@ request.onload = function(){
     }
 }
 
-
+button.onclick=function(){
+ location.reload();
+}
 
     request.send();
 
